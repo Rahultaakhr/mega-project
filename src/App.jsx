@@ -7,7 +7,7 @@ console.log(import.meta.env.VITE_APPWRITE_URL,"hello");
     <>
      <h1> My first full stack project</h1>
      <h2>HEllo RAhul i am a selgf taught
-      web developer no i want a remote job as a front end developer hello
+      web developer no i want a remote job as a front end developer hello i am a front
      </h2>
     
 
