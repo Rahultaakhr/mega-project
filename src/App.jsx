@@ -1,13 +1,13 @@
  import './App.css'
  import config from './config/config';
  function App() {
-console.log(config.appwriteProjectId);
+console.log(import.meta.env.VITE_APPWRITE_URL,"hello");
 
   return (
     <>
      <h1> My first full stack project</h1>
      <h2>HEllo RAhul i am a selgf taught
-      web developer no i want a remote job as a front end developer
+      web developer no i want a remote job as a front end developer hello
      </h2>
     
 
